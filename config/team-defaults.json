@@ -1,0 +1,9 @@
+{
+  "title_column": "A",
+  "feedback_column": "E",
+  "ratios": ["9:16", "16:9"],
+  "folder_name_pattern": "{episode} 期",
+  "parent_folder_url": null,
+  "execution": "sequential",
+  "upload_requires_explicit_request": true
+}
