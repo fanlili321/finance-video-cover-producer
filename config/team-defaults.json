@@ -1,9 +1,9 @@
 {
   "title_column": "A",
   "feedback_column": "E",
-  "ratios": ["9:16", "16:9"],
+  "ratios": ["9:16", "4:3", "16:9"],
   "folder_name_pattern": "{episode} 期",
-  "parent_folder_url": null,
+  "parent_folder_url": "https://epndqwwg0a.feishu.cn/drive/folder/SnrQfpGkjlj323dcN7ccH1lSnbg",
   "execution": "sequential",
   "upload_requires_explicit_request": true
 }

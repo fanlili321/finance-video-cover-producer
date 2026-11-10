@@ -1,0 +1,35 @@
+{
+  "note": "All PNG assets are copied without recompression. Dimensions are the original source dimensions except the two explicitly normalized HD example covers.",
+  "assets": [
+    {
+      "file": "presenter-identity-original.png",
+      "role": "Presenter identity anchor",
+      "dimensions": "2048x1365",
+      "sha256": "6387f8aa42ebf1142be742c3c960a9c4b3ddaed256ce8c298a534fb45c0617fc"
+    },
+    {
+      "file": "style-reference-original.png",
+      "role": "Original palette and mood reference",
+      "dimensions": "358x482",
+      "sha256": "86371dd07deafb5eb18f8aad9bdc99f83af20fbce1b7eb05fa867abc5b30bc0c"
+    },
+    {
+      "file": "layout-reference-original.png",
+      "role": "Original detailed vertical collage layout reference",
+      "dimensions": "941x1672",
+      "sha256": "1e5ae9cf83c2425acd4db1c87f1a6c6377ea8dded28b561180441ad2cc092752"
+    },
+    {
+      "file": "example-cover-9-16.png",
+      "role": "Approved vertical series anchor",
+      "dimensions": "1080x1920",
+      "sha256": "5dd8f6158c89a1c245152346fa2f73a6fc79ed03c400881edc08329f508c0b12"
+    },
+    {
+      "file": "example-cover-16-9.png",
+      "role": "Approved horizontal series anchor",
+      "dimensions": "1920x1080",
+      "sha256": "ebdb2ab0f16716c4a5678289ca50fd6ad4d35cd2383705153977dfa1c1f28b27"
+    }
+  ]
+}

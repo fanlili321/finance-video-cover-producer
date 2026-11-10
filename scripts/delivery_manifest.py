@@ -79,7 +79,7 @@ def main():
         command.add_argument("--manifest", type=Path, required=True)
         if name == "init":
             command.add_argument("--titles", type=Path, required=True)
-            command.add_argument("--ratios", nargs="+", choices=TARGETS, default=["9:16", "16:9"])
+            command.add_argument("--ratios", nargs="+", choices=TARGETS, default=["9:16", "4:3", "16:9"])
         elif name == "accept":
             command.add_argument("--title", required=True)
             command.add_argument("--ratio", choices=TARGETS, required=True)
