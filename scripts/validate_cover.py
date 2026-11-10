@@ -10,7 +10,7 @@ import zlib
 from pathlib import Path
 
 
-TARGETS = {"9:16": (1080, 1920, "9-16"), "16:9": (1920, 1080, "16-9")}
+TARGETS = {"9:16": (1080, 1920, "9-16"), "4:3": (1440, 1080, "4-3"), "16:9": (1920, 1080, "16-9")}
 
 
 def png_dimensions(path: Path) -> tuple[int, int]:
